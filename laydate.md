@@ -1,10 +1,6 @@
 #laydate - 日历插件
-## 1.引包
-
-+ laydate是基于jquery的插件，所以在引入laydate.js之前需要先引入jquery
-
-```html
-	<script src='jquery所在路径/jquery.min.js'></script>    
+## 1.引包(注意：目录need，skins，和laydate.js的层级关系是确定的，不能改变)
+```html  
     <script src='laydate.js所在路径/laydate.min.js'></script>	
 ```
 ## 2.laydate的几种用法说明
